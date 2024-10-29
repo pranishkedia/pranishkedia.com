@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         pranishkedia.com
         <div></div>
-        coming soon.
+        website coming soon.
       </header>
     </div>
   );
