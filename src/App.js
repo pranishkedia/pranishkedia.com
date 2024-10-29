@@ -9,8 +9,6 @@ function App() {
         pranishkedia.com
         <div></div>
         coming soon.
-        <div></div>
-        gabs, will u marry me?
       </header>
     </div>
   );
